@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - I'm looking to collaborate on:  I'm always looking to learn new things!
 - Ask me about: My favorite Yeat music! which is Hit the Airport.
 - Fun Fact: I possess the natural ability to recall faster than usual.
-- 
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukh-karmakar-a19709406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) 
