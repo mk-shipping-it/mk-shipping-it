@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - Fun Fact: I possess the natural ability to recall faster than usual.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukh-karmakar-a19709406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Website](![Static Badge](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
-)](https://portfolio-artwork-5lsi6mdab-mk-18cc.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukh-karmakar-a19709406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Static Badge](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
+](https://portfolio-artwork-5lsi6mdab-mk-18cc.vercel.app/)
