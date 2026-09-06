@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukh-karmakar-a19709406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Static Badge](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
-](https://portfolio-artwork-5lsi6mdab-mk-18cc.vercel.app/)
+](https://portfolio-artwork.vercel.app/)
