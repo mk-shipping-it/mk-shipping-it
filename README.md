@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 - Ask me about: My favorite Yeat music! which is Hit the Airport.
 - Fun Fact: I possess the natural ability to recall faster than usual.
 
+## Projects:
+[![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic&logo=render)
+](https://bibliotheca-cms.onrender.com/) [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic&logo=render)
+](https://stock-analysis-and-market-sentiments.onrender.com/)
+
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukhkarmakar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Static Badge](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukhkarmakar/) [![email](https://img.shields.io/badge/Email-steelblue?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Website](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
 ](https://portfolio-artwork.vercel.app/)
-![](https://komarev.com/ghpvc/?username=mk-shipping-it&color=grey)
