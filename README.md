@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukhkarmakar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Static Badge](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
 ](https://portfolio-artwork.vercel.app/)
+![](https://komarev.com/ghpvc/?username=mk-shipping-it&color=grey)
