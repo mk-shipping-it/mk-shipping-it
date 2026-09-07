@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - Fun Fact: I possess the natural ability to recall faster than usual.
 
 ## Projects:
-[![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic&logo=render)
-](https://bibliotheca-cms.onrender.com/) [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic&logo=render)
+[![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic)
+](https://bibliotheca-cms.onrender.com)  [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic)
 ](https://stock-analysis-and-market-sentiments.onrender.com/)
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukhkarmakar/) [![email](https://img.shields.io/badge/Email-steelblue?logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Website](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?style=plastic)](https://linkedin.com/in/mayukhkarmakar/) [![email](https://img.shields.io/badge/Email-steelblue?style=plastic&logo=gmail&logoColor=white)](mailto:mayukhk2004) [![Website](https://img.shields.io/badge/Website-steelblue?style=plastic&logo=internetarchive)
 ](https://portfolio-artwork.vercel.app/)
