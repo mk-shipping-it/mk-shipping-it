@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - Fun Fact: I possess the natural ability to recall faster than usual.
 
 ## Projects:
-[![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic)
-](https://bibliotheca-cms.onrender.com)  [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic)
+[![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic)](https://bibliotheca-cms.onrender.com) [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic)
 ](https://stock-analysis-and-market-sentiments.onrender.com/)
 
 ## Socials:
