@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm currently working on: Smart Tourist Safety Monitoring & Incident Response System, SIH25002
-- I'm currently learning: What geofencing is.
-- I'm looking to collaborate on:  I'm always looking to learn new things!
-- Ask me about: My favorite Yeat music! which is Hit the Airport.
-- Fun Fact: I possess the natural ability to recall faster than usual.
+- I'm currently learning: What geofencing is; what an ARGO float collects.
+- I'm looking to collaborate on:  On the lookout to learn new things!
+- Ask me about: honestly, anything :)
+- Fun Fact: Perfection is my superpower not my enemy.
 
 ## Projects:
 [![Project 1 Website](https://img.shields.io/badge/Project1-steelblue?style=plastic)](https://bibliotheca-cms.onrender.com) [![Project 2 Website](https://img.shields.io/badge/Project2-steelblue?style=plastic)
